@@ -1,0 +1,5 @@
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\Domain\bin\Release\Domain.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\Domain\bin\Release\Domain.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Release\Domain.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\Domain\obj\Release\Domain.pdb

@@ -1,0 +1,305 @@
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\obj\Debug\API.csprojAssemblyReference.cache
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\API.dll.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\API.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\API.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csc.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csc.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csc.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csi.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csi.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\csi.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.AppContext.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Collections.Immutable.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Console.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.IO.Compression.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.IO.FileSystem.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.IO.Pipes.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.AccessControl.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Claims.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.ValueTuple.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Xml.XPath.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\vbc.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\vbc.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\vbc.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\VBCSCompiler.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\roslyn\VBCSCompiler.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Antlr3.Runtime.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\AutoMapper.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Domain.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\EntityFramework.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\EntityFramework.SqlServer.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Microsoft.Web.Infrastructure.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Newtonsoft.Json.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Service.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Net.Http.Formatting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Helpers.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Http.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Http.WebHost.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Mvc.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Optimization.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Razor.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.Deployment.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.Razor.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\WebGrease.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Infraestructure.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Domain.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Service.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Service.dll.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\EntityFramework.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\EntityFramework.SqlServer.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Newtonsoft.Json.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Net.Http.Formatting.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Helpers.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Http.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Http.WebHost.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Mvc.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Optimization.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.Razor.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.Deployment.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\System.Web.WebPages.Razor.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Antlr3.Runtime.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Infraestructure.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\Infraestructure.dll.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Net.Http.Formatting.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Helpers.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Http.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Http.WebHost.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Mvc.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Optimization.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.Razor.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.WebPages.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\obj\Debug\API.csproj.CopyComplete
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\obj\Debug\API.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana11\MVCAJAX\API\obj\Debug\API.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\API.dll.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\API.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\API.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.exe
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.exe.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.rsp
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.exe
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.exe.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.rsp
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.AppContext.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Collections.Immutable.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Console.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Compression.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.FileSystem.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Pipes.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.AccessControl.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Claims.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.ValueTuple.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XPath.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.exe
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.exe.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.rsp
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\VBCSCompiler.exe
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\VBCSCompiler.exe.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Antlr3.Runtime.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Domain.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.Web.Infrastructure.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Newtonsoft.Json.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Net.Http.Formatting.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Helpers.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.WebHost.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Mvc.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Optimization.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Razor.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Deployment.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Razor.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\WebGrease.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Domain.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.dll.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\EntityFramework.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\EntityFramework.SqlServer.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Newtonsoft.Json.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Net.Http.Formatting.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Helpers.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.WebHost.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Mvc.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Optimization.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Razor.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Deployment.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Razor.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Antlr3.Runtime.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.pdb
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.dll.config
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Helpers.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Http.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Mvc.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Optimization.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Razor.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.csproj.CopyComplete
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.dll
+D:\6to\CURSO TORRICO\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\API.dll.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\API.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\API.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.exe
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.exe.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csc.rsp
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.exe
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.exe.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\csi.rsp
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.AppContext.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Console.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Claims.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.exe
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.exe.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\vbc.rsp
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Antlr3.Runtime.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Domain.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Newtonsoft.Json.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Net.Http.Formatting.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Helpers.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.WebHost.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Mvc.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Optimization.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Razor.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\WebGrease.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Domain.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Service.dll.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Newtonsoft.Json.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Net.Http.Formatting.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Helpers.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Http.WebHost.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Mvc.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Optimization.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.Razor.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Antlr3.Runtime.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.pdb
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\Infraestructure.dll.config
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Http.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.Razor.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.dll
+C:\Users\piero\Desktop\Semana13-DesAEA\.Net_EntityFramework_MVC_CAPAS\API\obj\Debug\API.pdb
